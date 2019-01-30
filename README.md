@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -8,7 +8,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
@@ -88,4 +88,3 @@ Medical Social network The goal of this project is to create a social networkwhe
 6.Ability for clinicians to share information with the patients.
 
 7.Use a secured data host and a 3rd party electronic health care integrator(Google Cloud platform healthcare API may be able to theoretically solve both problems
->>>>>>> 80ca7310fbce404a6c99852973c606c17d205e06

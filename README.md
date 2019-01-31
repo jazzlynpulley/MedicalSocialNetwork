@@ -1,9 +1,15 @@
 ## Dev Setup Instructions
 1.) Clone the repository to your local machine
+
 2.) In terminal, cd MedicalSocialNetwork/
+
 3.) run npm install
+
 4.) run npm start
+
 5.) point your browser to [http://localhost:8000](http://localhost:8000)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

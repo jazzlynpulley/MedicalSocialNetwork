@@ -135,24 +135,6 @@ render() {
    }
    else{
     return (
-     <div>
-       <Button bsStyle="success" bsSize="small" onClick={this.openModal}><span className="glyphicon glyphicon-plus"></span></Button>
-       <Modal
-        isOpen={this.state.modalIsOpen}
-        onAfterOpen={this.afterOpenModal}
-        onRequestClose={this.closeModal}
-        contentLabel="Add Expense"
-        className="Modal">
-<div className='button-center'>
-        <h3>{this.state.messageFromServer}</h3>
-        <Link to={{pathname: '/', search: '' }} style={{ textDecoration: 'none' }}>
-         <Button bsStyle="success" bsSize="mini" onClick={this.closeModal}>Close the Dialog</Button>
-        </Link>
-       </div>
-      </Modal>
-       </div>
-     )
-    }
-   }
+
 }
 export default Add;

@@ -35,7 +35,19 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 # Directory Structure
 ![MedicalSocialNetwork](img/directory.PNG)
        
+# To run test:
+`npm run test'
 
+# Automated weekly builds
+// todo
+
+# Releasing a new version of the software
+// todo 
+
+# Accessing the list of bugs
+// url to issue tracker
+
+# 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

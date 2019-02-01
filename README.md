@@ -42,7 +42,8 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 // todo
 
 # Releasing a new version of the software
-// todo 
+
+We will be releasing new versions of our website week to week, and will provide updated zip files with corresponding version numbers to make it clear which build is our most current on git. We will likely have main and sub releases on a regular basis as we continue to build or application, with new builds being announced on old builds so that individuals can stay up to date.
 
 # Accessing the list of bugs
 // url to issue tracker

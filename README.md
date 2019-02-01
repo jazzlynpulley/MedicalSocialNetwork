@@ -1,3 +1,25 @@
+## User Documentation
+
+A quick informative description of the project for use by the end user. 
+
+### Project Desciption
+
+This project was created to benefit working medical professionals and their patients through enhanced communication between the two parties. The intended outcome of the project is for patients to receive more immediate response from a physician (or group of physicians) based on ongoing treatments or medical issues, and for a physician to receive more accurate and immediate response from patients, which may give them the ability to improve patient care. Through secure methods of information transfer, patient care no longer must be limited to clinical visits, but hopefully can be done from the comfort of home in some instances, especially when a patient may be at risk of picking up or spreading pathogens at a physical clinic. Through a our medical social network, patient care can be practiced in a safer and more efficient manner.
+
+### How to obtain and Run Software
+
+There is no physical software necessary to run our system, users simply need to navigate to the url at `##########`
+
+### How to use the software
+
+The use of the software is similar to that of any other social media website, except that because of the nature of the data on this social media platform, further steps must be taken to ensure the proper indentity of both patient and doctor. For doctors, `#####` will be needed upon the account creating process to confirm credentials and identity, wheras on the patient side `#####` will be needed. While at this stage of the production process the tools are not yet created for these processes and adding of connections between patients and doctors, these descriptions will be added futher into the production cycle. 
+
+### Reporting a Bug
+
+To report a bug, simply navigate to the "report a problem" link towards the bottom of any page, which will take you to a report form for you to fill out. Please remember to include a good desciptive title at the top of the report, as well as strong descriptions of where on the site you encountered the problem and what exactly the problem entailed within the report itself. If the bug persist or prevents you from doing anything within the site (eg. more than a cosmetic bug) select the appropriate boxes beneath the report before hitting submit. 
+
+
+
 ## Dev Setup Instructions
 1.) Clone the repository to your local machine
 

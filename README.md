@@ -19,8 +19,9 @@ The use of the software is similar to that of any other social media website, ex
 To report a bug, simply navigate to the "report a problem" link towards the bottom of any page, which will take you to a report form for you to fill out. Please remember to include a good desciptive title at the top of the report, as well as strong descriptions of where on the site you encountered the problem and what exactly the problem entailed within the report itself. If the bug persist or prevents you from doing anything within the site (eg. more than a cosmetic bug) select the appropriate boxes beneath the report before hitting submit. 
 
 
+## Documentation for Developers
 
-## Dev Setup Instructions
+# To run:
 1.) Clone the repository to your local machine
 
 2.) In terminal, cd MedicalSocialNetwork/
@@ -31,7 +32,22 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 
 5.) point your browser to [http://localhost:8000](http://localhost:8000)
 
+# Directory Structure
+![MedicalSocialNetwork](img/directory.PNG)
+       
+# To run test:
+`npm run test'
 
+# Automated weekly builds
+// todo
+
+# Releasing a new version of the software
+// todo 
+
+# Accessing the list of bugs
+// url to issue tracker
+
+# 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -97,10 +113,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
 # MedicalSocialNetwork
 ESOF423
 

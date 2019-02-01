@@ -33,7 +33,8 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 5.) point your browser to [http://localhost:8000](http://localhost:8000)
 
 # Directory Structure
-![MedicalSocialNetwork](img/directory.png)
+![MedicalSocialNetwork](img/directory.PNG)
+       
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

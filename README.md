@@ -2,7 +2,7 @@
 
 A quick informative description of the project for use by the end user. 
 
-### `Project Desciption`
+### Project Desciption
 
 This project was created to benefit working medical professionals and their patients through enhanced communication between the two parties. The intended outcome of the project is for patients to receive more immediate response from a physician (or group of physicians) based on ongoing treatments or medical issues, and for a physician to receive more accurate and immediate response from patients, which may give them the ability to improve patient care. Through secure methods of information transfer, patient care no longer must be limited to clinical visits, but hopefully can be done from the comfort of home in some instances, especially when a patient may be at risk of picking up or spreading pathogens at a physical clinic. Through a our medical social network, patient care can be practiced in a safer and more efficient manner.
 

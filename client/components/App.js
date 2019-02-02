@@ -1,7 +1,11 @@
 //client/components/App.js
 import React, { Component } from 'react';
 import '../css/App.css';
+import readMe from '../../README.md'
+import img from '../../img/directory.PNG';
+
 class App extends Component {
+
   render() {
     return (
       <div className="App">
@@ -10,7 +14,7 @@ class App extends Component {
         </header>
 
       <body>
-	<h1> Bug reporting coming soon </h1>
+      <p dangerouslySetInnerHTML={{ __html: readMe }} />
 	<h1> <a href="https://github.com/jazzlynpulley/MedicalSocialNetwork"> For source code, visit our github</a> </h1>
       </body>
      </div>

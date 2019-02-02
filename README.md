@@ -21,6 +21,9 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 
 ## Documentation for Developers
 
+## To obtain source code: 
+Latest stable version will always be master, so clone the repo and pull that branch.
+
 # To run:
 1.) Clone the repository to your local machine
 

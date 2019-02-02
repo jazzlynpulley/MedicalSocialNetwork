@@ -36,17 +36,17 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 ![MedicalSocialNetwork](img/directory.PNG)
        
 # To run test:
-`npm run test'
+`npm run test`
 
 # Automated weekly builds
-// todo
+Our software uses Travis CI to perform continious integration.  It will run the build and tests each time a commit is made to master.  
 
 # Releasing a new version of the software
 
 We will be releasing new versions of our website week to week, and will provide updated zip files with corresponding version numbers to make it clear which build is our most current on git. We will likely have main and sub releases on a regular basis as we continue to build or application, with new builds being announced on old builds so that individuals can stay up to date.
 
 # Accessing the list of bugs
-// url to issue tracker
+[Click here to report/access bugs](https://github.com/jazzlynpulley/MedicalSocialNetwork/issues)
 
 # 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

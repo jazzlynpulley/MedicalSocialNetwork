@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, '../client')));
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(bodyParser.urlencoded({limit: '50mb', extended: false}));
 
-mongoose.connect('mongodb://groupten:Software423@ds033907.mlab.com:33907/medical');
+mongoose.connect('mongodb://groupten:Software423@ds033907.mlab.com:33907/medical', { useNewUrlParser: true });
 
 app.use('/', router);
 module.exports=app;

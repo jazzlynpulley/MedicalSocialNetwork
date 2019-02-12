@@ -12,13 +12,13 @@ module.exports = {
  },
  module: {
   rules: [{
-   test: /.jsx?$/,
-   loader: 'babel-loader',
-   exclude: /node_modules/,
-   query: {
-    presets: ['@babel/preset-env', '@babel/react']
-   }
-  },
+ test: /.jsx?$/,
+ exclude: /node_modules/,
+ use: {
+ loader: 'babel-loader'
+ }
+ },
+
   {
     test: /\.md$/,
     use: [

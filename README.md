@@ -131,7 +131,7 @@ Medical Social network The goal of this project is to create a social networkwhe
 
 3.Ability for a patient friend one or more clinicians.
 
-4.Ability for the clinicians to “friend” their patients
+4.Ability for the clinicians to “friend” their patients.
 
 5.Ability for patients to share information that they think is necessary with the clinician.
 

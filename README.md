@@ -1,6 +1,6 @@
 ## User Documentation
 
-A quick informative description of the project for use by the end user. 
+A quick informative description of the project for use by the end user.
 
 ### Project Desciption
 
@@ -8,18 +8,21 @@ This project was created to benefit working medical professionals and their pati
 
 ### How to obtain and Run Software
 
-There is no physical software necessary to run our system, users simply need to navigate to the url at `##########`
+There is no physical software necessary to run our system, users simply need to navigate to the url at [http://medicalsocial.000webhostapp.com/](http://medicalsocial.000webhostapp.com/)
 
 ### How to use the software
 
-The use of the software is similar to that of any other social media website, except that because of the nature of the data on this social media platform, further steps must be taken to ensure the proper indentity of both patient and doctor. For doctors, `#####` will be needed upon the account creating process to confirm credentials and identity, wheras on the patient side `#####` will be needed. While at this stage of the production process the tools are not yet created for these processes and adding of connections between patients and doctors, these descriptions will be added futher into the production cycle. 
+The use of the software is similar to that of any other social media website, except that because of the nature of the data on this social media platform, further steps must be taken to ensure the proper indentity of both patient and doctor. For doctors, `#####` will be needed upon the account creating process to confirm credentials and identity, wheras on the patient side `#####` will be needed. While at this stage of the production process the tools are not yet created for these processes and adding of connections between patients and doctors, these descriptions will be added futher into the production cycle.
 
 ### Reporting a Bug
 
-To report a bug, simply navigate to the "report a problem" link towards the bottom of any page, which will take you to a report form for you to fill out. Please remember to include a good desciptive title at the top of the report, as well as strong descriptions of where on the site you encountered the problem and what exactly the problem entailed within the report itself. If the bug persist or prevents you from doing anything within the site (eg. more than a cosmetic bug) select the appropriate boxes beneath the report before hitting submit. 
+To report a bug, simply navigate to the "report a problem" link towards the bottom of any page, which will take you to a report form for you to fill out. Please remember to include a good desciptive title at the top of the report, as well as strong descriptions of where on the site you encountered the problem and what exactly the problem entailed within the report itself. If the bug persist or prevents you from doing anything within the site (eg. more than a cosmetic bug) select the appropriate boxes beneath the report before hitting submit.
 
 
 ## Documentation for Developers
+
+## To obtain source code:
+Latest stable version will always be master, so clone the repo and pull that branch.
 
 # To run:
 1.) Clone the repository to your local machine
@@ -34,21 +37,21 @@ To report a bug, simply navigate to the "report a problem" link towards the bott
 
 # Directory Structure
 ![MedicalSocialNetwork](img/directory.PNG)
-       
+
 # To run test:
-`npm run test'
+`npm run test`
 
 # Automated weekly builds
-// todo
+Our software uses Travis CI to perform continious integration.  It will run the build and tests each time a commit is made to master.  
 
 # Releasing a new version of the software
 
 We will be releasing new versions of our website week to week, and will provide updated zip files with corresponding version numbers to make it clear which build is our most current on git. We will likely have main and sub releases on a regular basis as we continue to build or application, with new builds being announced on old builds so that individuals can stay up to date.
 
 # Accessing the list of bugs
-// url to issue tracker
+[Click here to report/access bugs](https://github.com/jazzlynpulley/MedicalSocialNetwork/issues)
 
-# 
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
